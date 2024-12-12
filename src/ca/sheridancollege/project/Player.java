@@ -10,6 +10,7 @@ package ca.sheridancollege.project;
  *
  * @author dancye
  * @author Paul Bonenfant Jan 2020
+ * @Modifier Guransh Singh Bagga
  */
 public abstract class Player {
 
